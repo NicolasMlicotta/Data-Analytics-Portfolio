@@ -17,7 +17,7 @@ Para poder realizarlo, tuve que:
 
 
 
-
+![CMQ](https://github.com/NicolasMlicotta/data/blob/main/CMQ.png)
 
 
 ##  Black Friday Sales
