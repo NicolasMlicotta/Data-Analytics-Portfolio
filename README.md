@@ -2,4 +2,4 @@
 En este espacio podrás visualizar algunos de los proyectos en los que estuve trabajando, haciendo uso de Power BI y Python en Jupyter Labs.
 
 ![alt text](https://raw.githubusercontent.com/NicolasMlicotta/Data-Analytics-Portfolio/main/Power%20BI/Black%20Friday%20Sales/BlackFridaySales.png)
-![alt text](https://drive.google.com/file/d/1Hob2h-XXYQ8EZW9yOvi5c0rl-PzFoeS7/view?usp=sharing)
+![alt text](https://raw.githubusercontent.com/NicolasMlicotta/Data-Analytics-Portfolio/main/Img/Sales%20Per%20Region.png)
