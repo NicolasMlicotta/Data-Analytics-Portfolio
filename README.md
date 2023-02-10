@@ -1,5 +1,5 @@
 # Portfolio
-In this space you can find some of the projects I've been working on, using Power BI and Python in Jupyter Labs.
+Here are some of the projects I've been working on using Power BI and Python in Jupyter Labs.
 To see the details of each one, please navigate to the corresponding folders.
 
 ## Power Bi Preview
