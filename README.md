@@ -1,6 +1,6 @@
 # Portfolio
-En este espacio podrás visualizar algunos de los proyectos en los que estuve trabajando, haciendo uso de Power BI y Python en Jupyter Labs.
-Para ver el detalle de los cada uno, navegá dentro de las carpetas correspondientes.
+In this space you can view some of the projects I've been working on, using Power BI and Python in Jupyter Labs.
+To see the details of each one, navigate to the corresponding folders.
 
 ## Power Bi Preview
 ![alt text](https://raw.githubusercontent.com/NicolasMlicotta/Data-Analytics-Portfolio/main/Power%20BI/Black%20Friday%20Sales/BlackFridaySales.png)
